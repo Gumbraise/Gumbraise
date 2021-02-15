@@ -27,8 +27,8 @@ If you want to help me in my work, consider donating. Thank you!
 
 #### ![btc](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/bitcoin.png) Bitcoin
 
-- 3ML4B58aw9CHTsjE5nPGzVhTLK8mBz8Vv4
+- 35iKsKo6p3aDdaiENG9Ympu4BAsEEkmCEX
 
 #### <img src="https://www.logolynx.com/images/logolynx/b0/b0839301e62a21664ea82d24ab1a0414.png" width="16" height="16" /> Ethereum
 
-- 0xf1fee16e2b91b462139434b9c5FE949856ccc6eb
+- 0x3948C84985a55D313F2d1D593B64e46Bc00673bf
